@@ -34,3 +34,15 @@ root -l
 root [0] .L MeuAnalise.C+
 root [1] MeuAnalise t
 root [2] t.Loop()
+```
+
+## Resultados Gráficos
+
+### Multiplicidade de Múons
+![Número de Múons por Evento](histograma_nMuon.png)
+
+### Momento Transversal do Múon Líder
+![Pt do Múon Líder](histograma_pt_muon.png)
+
+### Pseudorapidez do Múon Líder
+![Eta do Múon Líder](histograma_eta_muon.png)

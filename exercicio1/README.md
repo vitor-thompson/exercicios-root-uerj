@@ -37,6 +37,3 @@ Ao executar o código com `root -l exercicio1.C`, a saída obtida no terminal é
 * **a. Valor da Função em x = 1:** `0.909297`
 * **b. Derivada em x = 1:** `-1.32544`
 * **c. Integral entre 0 e 3:** `1.60541`
-* **c. Integral entre $0$ e $3$:** `1.60541`
-* **b. Derivada em $x = 1$:** `-1.32544`
-* **c. Integral entre $0$ e $3$:** `1.60541`

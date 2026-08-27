@@ -50,3 +50,7 @@ O código em C++ utiliza o gerador de números aleatórios `TRandom3` e configur
 
 Para o correto funcionamento desta etapa, a pasta `exercicio3/` deve conter:
 * `exercicio3.C` (Código fonte em C++)
+
+## Resultado Gráfico
+
+![Histograma Gaussiano com Estatísticas](exercicio3.png)

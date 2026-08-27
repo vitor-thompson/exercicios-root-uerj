@@ -39,3 +39,7 @@ O código realiza o processamento dos eventos da árvore `tree1` e aplica a álg
 Para o correto funcionamento desta etapa, a pasta `exercicio4/` deve conter:
 * `exercicio4.C` (Código fonte em C++)
 * `tree.root` (Arquivo de dados de entrada com a `TTree tree1`)
+
+## Resultado Gráfico
+
+![Distribuição do Momento Total](exercicio4_momento.png)

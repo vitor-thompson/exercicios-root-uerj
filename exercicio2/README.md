@@ -41,3 +41,7 @@ Para o correto funcionamento deste código, a pasta `exercicio2/` deve conter os
 * `exercicio2.C` (Código fonte em C++)
 * `graphdata.txt` (Arquivo de entrada com os pontos $x, y$)
 * `graphdata_error.txt` (Arquivo de entrada com $x, y, e_x, e_y$)
+
+## Resultado Gráfico
+
+![Gráfico TGraph e TGraphErrors](exercicio2.png)
